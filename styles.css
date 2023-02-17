@@ -1,0 +1,179 @@
+
+html {
+    font-size: 16px;
+
+}
+
+body {
+   
+    font-family: roboto,"Noto Sans Myanmar UI",arial,sans-serif; ;
+    background-color:  #a9b0b3;
+    color:#fef9f0 ;
+    margin: 20px;
+    }
+header{
+    font-size: 40px;
+    text-align: center;
+    padding: auto;
+    border-bottom: 5px solid black;
+    margin-inline: 400px;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    }  
+nav{
+    width: auto;
+    padding: auto;
+    border: 5px solid gray;
+    margin: 0;
+    border-radius: 5px;
+    box-shadow: 5px 10px 18px white;
+   } 
+
+p {
+    font-size: 1.2rem;
+    }
+
+section {
+    background-color:#404749;
+    padding:20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 5px solid whitesmoke;
+    }
+aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float:inline-start;
+    font-style: italic;
+    background-color:rgb(27, 27, 102);
+    border-radius: 5px;
+    }
+
+.dark {
+    background-color: black;
+    color: white;
+    }
+
+.light {
+    background-color: white;
+    color: black;
+    }
+
+.p {
+    padding: 20px;
+   }
+ #my-yellow-paragraph {
+    color:yellow;
+    
+    }
+ 
+footer {
+    font-size: 2rem;
+    background-color:#20293f ;
+    padding: 20px;
+    margin-bottom: 10px;
+    border:5px solid whitesmoke;
+   }
+   ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #233245;
+    font-family: sans-serif;
+    text-shadow: #dedede;
+    width: auto;
+    padding: auto;
+    border: 5px solid black;
+    margin: 0;
+    border-radius: 5px;
+    box-shadow: 5px 10px 18px white;
+}
+
+li {
+    float:right;
+    vertical-align:bottom;
+    box-shadow: #fef9f0;
+    padding: 5px;
+}
+
+li a {
+    color: white;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+     text-align:center;
+     width: auto;
+    padding: auto;
+    border: 5px transparent;
+    margin: 2px;
+    border-radius: 2px;
+    box-shadow: 5px 10px 18px whitesmoke;
+    }
+
+li:hover {
+  background-color:;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+img {
+    border: 10px solid #4a5155;
+    box-shadow: 5px 10px 18px  white;
+    box-shadow: 10px 18px 28px black;
+  }
+  h2,h3 {
+    width: 300px;
+    height: 100px;
+    padding: 15px;
+    background-color: rgb(50, 57, 73);
+    box-shadow: 10px 10px;
+    box-shadow: 10px 10px 5px rgb(173, 185, 230) inset;
+    position:absolute;
+    left: 600px;
+    width: 300px;
+    border: 3px solid #25272a;
+    padding: 10px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
